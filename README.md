@@ -8,13 +8,9 @@
   <a href="#-como-executar">Como executar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
-<br/>
-
 <p align="center">
   <img src="./.github/watchme-mockup.png" />
 </p>
-
-<br/>
 
 ## 🚀 Tecnologias
 - [ReactJS](https://reactjs.org)
